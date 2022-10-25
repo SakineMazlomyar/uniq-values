@@ -1,2 +1,1 @@
 # accumulator-js
-# hello hello
